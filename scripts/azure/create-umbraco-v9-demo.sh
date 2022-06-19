@@ -32,8 +32,8 @@ dbName="sqlDb-"$demoName
 appServiceName="app-"$demoName
 deployUserName="u9deployer"
 deployPassword="woofW00F#9"$RANDOM
-umbracoAdminUserName="DemoUser"
-umbracoAdminEmail="demo.user@monumentmail.com"
+umbracoAdminUserName="cwalletadmin"
+umbracoAdminEmail="deteam@cwallet.qa"
 umbracoAdminPassword="UNatt3nd3d#dotnet5"$RANDOM
 deleteScriptFile="delete-demo-$demoName.sh"
 
